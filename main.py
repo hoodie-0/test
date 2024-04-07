@@ -1,4 +1,7 @@
-print("Hello Git and GitHub")
-print("Trying a Second Commit!!")
-print("Hi terminal!")
+# Q1 answer
 
+x = 44
+
+y = 6
+
+# Finished
